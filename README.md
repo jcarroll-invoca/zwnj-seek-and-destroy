@@ -5,7 +5,7 @@ Created for Viasat, but generalized to any org that needs to find and replace hi
 An example website includes:  https://www.exede.com/
 Where they have:
 
-![](images/zwnj_image_example.png)
+![](images/zwnj_photo_example.png)
 
 ## How to Run
   1.  Pull the script down.
