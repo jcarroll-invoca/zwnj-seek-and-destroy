@@ -1,7 +1,9 @@
 // Hidden (non-printable) Character Detection & Replacement.
 //
 // Notes:
-//		This solution (a "bandaid" approach) for https://www.exede.com/?invoca_rev=draft for Viasat)
+//		This solution (a "bandaid" approach) is for https://www.exede.com/ which has some hidden characters around
+//		the telephone number, making it very difficult (if not impossible) to do number replacement.
+//
 //		Its purpose is to find all (or some) non-printable characters and replace them PRIOR to the Invoca Tag running.
 //		
 //		NB: you cannot see the invisible non-printable characters, but the little gremlins are hidden in there.
