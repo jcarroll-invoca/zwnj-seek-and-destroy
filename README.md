@@ -3,7 +3,7 @@ Created for websites that have hidden, non-printable characters specifically zer
 
 ## Example
 An example website includes:  https://www.exede.com/
-Where they have:
+...where they have:
 
 ![](images/zwnj_photo_example.png)
 
