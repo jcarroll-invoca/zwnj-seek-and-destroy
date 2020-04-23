@@ -1,5 +1,5 @@
 # zwnj-seek-and-destroy
-Created for Viasat, but generalized to any org that needs to find and replace hidden characters, specifically zero-width non-join characters &amp;zwnj;.
+Created for websites that have hidden, non-printable characters specifically zero-width non-join characters &amp;zwnj;.  Modifications will need to be made to the script should you want to replace anything other than zero-width character.  Just paste in what you want to `seek and destroy`.
 
 ## Example
 An example website includes:  https://www.exede.com/
