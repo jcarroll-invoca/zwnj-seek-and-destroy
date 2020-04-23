@@ -32,3 +32,6 @@ _clock_performance()
 VM5337:36 This is how long it takes to strip the invisible chars ~: 3.927001953125ms
 VM5337:36 This is how long it takes to add back the invisible chars ~: 0.247802734375ms
 ```
+
+## For Bugs...
+Email one of the maintainers and/or file it under this projects github.  Thanks
