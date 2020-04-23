@@ -9,7 +9,7 @@ An example website includes:  https://www.exede.com/
 
 ## How to Run
   1.  Pull the script down.
-  2.  Copy and paste in the console of a website you want to see it's impact.
+  2.  Copy and paste in the console of a website you want to run it against.
   3.  The last few lines of the script have some commented lines for `main()` and a `_clock_performance()`.  Pick which you want to run.  If you are running main(), just uncomment it.  If you want to run the performance wrapper fn(), then uncomment that.  You can run several times back-to-back in the console just by invoking `_clock_performance()` over and over again.  See below for an example of this.
   
 ## Performance
