@@ -35,3 +35,4 @@ VM5337:36 This is how long it takes to add back the invisible chars ~: 0.2478027
 
 ## For Bugs...
 Email one of the maintainers and/or file it under this projects github.  Thanks
+:)
